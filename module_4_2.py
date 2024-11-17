@@ -5,4 +5,4 @@ def test_function():
     inner_function()
 
 test_function()
-inner_function() #NameError: name 'inner_function' is not defined.
+#inner_function() #NameError: name 'inner_function' is not defined.
